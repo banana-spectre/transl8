@@ -1,5 +1,5 @@
 <template>
-    <div class=" text-white flex flex-col px-8 pt-8 lg:pt-0 bg-[url('./img/2.png')] lg:flex-row w-full">
+    <div class=" text-white flex flex-col px-8 pt-8 lg:pt-0 bg-[url('/img/2.png')] lg:flex-row w-full">
         <div class="flex justify-center items-center w-full">
             <img src="/img/logo.png" alt="Forda Transl8 Yarn" class="mt-10 lg:mt-2 w-72 lg:h-20"/>
         </div>
